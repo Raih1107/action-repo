@@ -1,3 +1,3 @@
-age = 5
+age = 10
 
 print(age)
